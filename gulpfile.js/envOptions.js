@@ -1,5 +1,5 @@
 const srcPath = './app';
-const distPath = '../dist';
+const distPath = '../dist/gulp-bs5-dist';
 const nodePath = './node_modules';
 
 let envOptions = {
